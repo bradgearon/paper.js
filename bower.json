@@ -10,7 +10,7 @@
     "projects",
     "node_modules",
     "package.json",
-    "src",
+    "src/*",
     "test",
     "!src/core/Base.js",
     "!src/basic/*"
