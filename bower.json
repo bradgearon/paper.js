@@ -5,13 +5,15 @@
   "ignore": [
     "build",
     "components",
-    "dist/paper-node.js",
+    "dist",
     "fatline",
     "projects",
     "node_modules",
     "package.json",
     "src",
-    "test"
+    "test",
+    "!src/core/Base.js",
+    "!src/basic/*"
   ],
   "devDependencies": {
     "straps": "~1.4.3",
