@@ -13,7 +13,8 @@
     "src/*",
     "test",
     "!src/core/Base.js",
-    "!src/basic/*"
+    "!src/basic/*",
+    "!src/util/*"
   ],
   "devDependencies": {
     "straps": "~1.4.3",
